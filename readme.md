@@ -7,16 +7,17 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 ## Progress
 
 Current Course: [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/mern-stack-front-to-back/)  
-Current Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
-Courses Completed: 23  
-Total Points earned: 2800
+Current Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
+Courses Completed: **23**  
+Total Points earned: **3000**
 
-| Date Finished | Activity                | Points   | Links                                                                                                                                       |
-| ------------- | ----------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 30 Aug 2018   | Book                    | 200      | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
-| 01 Sep 2018   | Tutorial                | 100      | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)                                                         |
-| 02 Sep 2018   | Profession (22 courses) | 100 x 22 | [Frontend JS-developer](https://ru.hexlet.io/professions#frontend)                                                                          |
-|               | Profession (3 projects) | 100 x 3  | [Frontend JS-developer](https://ru.hexlet.io/professions#frontend)                                                                          |
+| Date Finished | Activity | Points | Links |
+| ------------- | -------- | ------ | ----- |
+| 30 Aug 2018   | Book | 200 | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
+| 01 Sep 2018   | Tutorial | 100 | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) |
+| 02 Sep 2018   | Profession (22 courses) | 100 x 22 | [Frontend JS-developer](https://ru.hexlet.io/professions#frontend) |
+|               | Profession (3 projects) | 100 x 3  | [Frontend JS-developer](https://ru.hexlet.io/professions#frontend) |
+| 05 Sep 2018   | Book | 200 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |
 
 ---
 
@@ -38,7 +39,7 @@ The idea and original [repo](https://github.com/AnDeVerin/p1xt-guides/blob/maste
 ## Tier 1 - get started
 
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+- [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
