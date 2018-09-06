@@ -9,7 +9,7 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 Current Course: [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/mern-stack-front-to-back/)  
 Current Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
 Courses Completed: **23**  
-Total Points earned: **3000**
+Total Points earned: **3100**
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
@@ -18,6 +18,7 @@ Total Points earned: **3000**
 | 02 Sep 2018   | Profession (22 courses) | 100 x 22 | [Frontend JS-developer](https://ru.hexlet.io/professions#frontend) |
 |               | Profession (3 projects) | 100 x 3  | [Frontend JS-developer](https://ru.hexlet.io/professions#frontend) |
 | 05 Sep 2018   | Book | 200 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |
+| 06 Sep 2018   | Tutorial | 100 | [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) |
 
 ---
 
