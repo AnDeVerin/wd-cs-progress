@@ -6,7 +6,7 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 
 ## Progress
 
-Current Course:  
+Current Course: [HTML Academy: Professional HTML & CSS, Level 1.](https://htmlacademy.ru/intensive/htmlcss)  
 Current Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
 Courses Completed: **22**  
 Total Points earned: **3200**
@@ -34,9 +34,17 @@ Get prepared, over the long haul, to be an established senior level web develope
 The idea and original [repo](https://github.com/AnDeVerin/p1xt-guides/blob/master/README.md).  
 [FAQ](./faq.md)
 
+---
+
 ## Business topics
 
 - [ ] Book: [Lean Startup](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602)
+
+## Learning paths (professions)
+
+- [ ] Profession (set of courses): [Frontend Masters: Go From Professional Web Developer to Lead Engineer](https://frontendmasters.com/learn/professional/)
+
+---
 
 ## Tier 1 - get started
 
@@ -46,7 +54,8 @@ The idea and original [repo](https://github.com/AnDeVerin/p1xt-guides/blob/maste
 - [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-- [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+- [ ] Course: [HTML Academy: Professional HTML & CSS, Level 1](https://htmlacademy.ru/intensive/htmlcss)
+- [ ] Course: [HTML Academy: Professional HTML & CSS, Level 2](https://htmlacademy.ru/intensive/adaptive)
 - [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 - [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
