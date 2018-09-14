@@ -6,7 +6,7 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 
 ## Progress
 
-Current Course: [HTML Academy: Professional HTML & CSS, Level 1.](https://htmlacademy.ru/intensive/htmlcss)  
+Current Course: [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)  
 Current Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
 Courses Completed: **22**  
 Total Points earned: **3200**
