@@ -7,7 +7,10 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 ## Progress
 
 Current Course: [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)  
-Current Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
+Current Book: 
+- [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
+- [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  
+
 Courses Completed: **22**  
 Total Points earned: **3200**
 
@@ -39,6 +42,9 @@ The idea and original [repo](https://github.com/AnDeVerin/p1xt-guides/blob/maste
 ## Business topics
 
 - [ ] Book: [Lean Startup](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602)
+- [ ] Topic: [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
+- [ ] Topic: [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))
+- [ ] Topic: [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
 
 ## Learning paths (professions)
 
