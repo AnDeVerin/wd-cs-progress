@@ -7,15 +7,16 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 ## Progress
 
 Current Course: [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)  
-Current Book: 
-- [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
-- [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  
+Current Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)  
 
-Courses Completed: **22**  
-Total Points earned: **3200**
+<!-- - [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  (stalled) -->
+
+Courses Completed: **23**  
+Total Points earned: **3300**
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
+| 30 Sep 2018   | Course | 100 | [Real-Time Web with Node.js](https://frontendmasters.com/courses/realtime-html5-nodejs/)   |
 | 09 Sep 2018   | Tutorial | 100 | [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/mern-stack-front-to-back/)   |
 | 06 Sep 2018   | Tutorial | 100 | [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) |
 | 05 Sep 2018   | Book | 200 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |
