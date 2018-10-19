@@ -7,6 +7,7 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 ## Progress
 
 Current Course: [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)  
+Current Book: [Vue.js: Up and Running. Building Accessible and Performant Web Apps](http://shop.oreilly.com/product/0636920103455.do)  
 Current Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)  
 
 <!-- - [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  (stalled) -->
@@ -51,6 +52,11 @@ The idea and original [repo](https://github.com/AnDeVerin/p1xt-guides/blob/maste
 ## Learning paths (professions)
 
 - [ ] Profession (set of courses): [Frontend Masters: Go From Professional Web Developer to Lead Engineer](https://frontendmasters.com/learn/professional/)
+
+---
+
+- [ ] Article collection: [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
+- [ ] Book: [Prof. Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ---
 
