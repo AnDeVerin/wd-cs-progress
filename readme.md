@@ -8,7 +8,7 @@ This year I am going to fill up all gaps in my knowledge and build a strong foun
 
 Current Course: [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)  
 Current Book: [Vue.js: Up and Running. Building Accessible and Performant Web Apps](http://shop.oreilly.com/product/0636920103455.do)  
-Current Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)  
+Current Book: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 <!-- - [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  (stalled) -->
 
@@ -68,6 +68,8 @@ The idea and original [repo](https://github.com/AnDeVerin/p1xt-guides/blob/maste
 - [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+- [ ] Book: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [ ] Book: [SICP - Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 - [ ] Course: [HTML Academy: Professional HTML & CSS, Level 1](https://htmlacademy.ru/intensive/htmlcss)
 - [ ] Course: [HTML Academy: Professional HTML & CSS, Level 2](https://htmlacademy.ru/intensive/adaptive)
 - [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
