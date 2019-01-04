@@ -1,22 +1,24 @@
 # Progress towards my learning goals
 
-## 2018
-
-This year I am going to fill up all gaps in my knowledge and build a strong foundation for my web-dev career. I take the list below as a guide and an example of what I need to study.
+In 2018 I began my career as a frontend developer. This repo is supposed to indicate my educational progress.  
+First, I am going to fill up all gaps in my knowledge and build a strong foundation for my web-dev career.  
+Second,  I will continue to develop my skills and experience and broaden my understanding and knowledge in this field.  
+I take the list below as a guide and an example of what I need to study.
 
 ## Progress
 
-Current Course: [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)  
+Current Course: Design systems (feat Vue.js)  
 Current Book: [Vue.js: Up and Running. Building Accessible and Performant Web Apps](http://shop.oreilly.com/product/0636920103455.do)  
 Current Book: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 <!-- - [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  (stalled) -->
 
-Courses Completed: **23**  
-Total Points earned: **3500**
+Courses Completed: **24**  
+Total Points earned: **3600**
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
+| 31 Dec 2018   | Course | 100 | [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)   |
 | 09 Oct 2018   | Book | 200 | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)   |
 | 30 Sep 2018   | Course | 100 | [Real-Time Web with Node.js](https://frontendmasters.com/courses/realtime-html5-nodejs/)   |
 | 09 Sep 2018   | Tutorial | 100 | [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/mern-stack-front-to-back/)   |
