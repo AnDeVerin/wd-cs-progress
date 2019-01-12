@@ -8,9 +8,9 @@ I take the list below as a guide and an example of what I need to study.
 ## Progress
 
 Current Course: Design systems (feat Vue.js)  
-Current Book: [Vue.js: Up and Running. Building Accessible and Performant Web Apps](http://shop.oreilly.com/product/0636920103455.do)  
+Current Book: [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)  
 Current Book: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
+<!-- - [Vue.js: Up and Running. Building Accessible and Performant Web Apps](http://shop.oreilly.com/product/0636920103455.do) -->
 <!-- - [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  (stalled) -->
 
 Courses Completed: **24**  
