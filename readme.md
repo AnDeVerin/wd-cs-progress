@@ -7,17 +7,18 @@ I take the list below as a guide and an example of what I need to study.
 
 ## Progress
 
-Current Course: Design systems (feat Vue.js)  
-Current Book: [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)  
-Current Book: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+Current Course:  
+Current Book:  
 <!-- - [Vue.js: Up and Running. Building Accessible and Performant Web Apps](http://shop.oreilly.com/product/0636920103455.do) -->
 <!-- - [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  (stalled) -->
 
 Courses Completed: **24**  
-Total Points earned: **3600**
+Total Points earned: **4000**
 
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
+| 1 Mar 2019   | Book | 200 | [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)  |
+| 1 Feb 2019   | Book | 200 | [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  |
 | 31 Dec 2018   | Course | 100 | [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)   |
 | 09 Oct 2018   | Book | 200 | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)   |
 | 30 Sep 2018   | Course | 100 | [Real-Time Web with Node.js](https://frontendmasters.com/courses/realtime-html5-nodejs/)   |
@@ -72,8 +73,8 @@ The idea and original [repo](https://github.com/AnDeVerin/p1xt-guides/blob/maste
 - [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [ ] Book: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] Book: [SICP - Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
-- [ ] Course: [HTML Academy: Professional HTML & CSS, Level 1](https://htmlacademy.ru/intensive/htmlcss)
-- [ ] Course: [HTML Academy: Professional HTML & CSS, Level 2](https://htmlacademy.ru/intensive/adaptive)
+- [x] Course: [HTML Academy: Professional HTML & CSS, Level 1](https://htmlacademy.ru/intensive/htmlcss)
+- [x] Course: [HTML Academy: Professional HTML & CSS, Level 2](https://htmlacademy.ru/intensive/adaptive)
 - [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 - [ ] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
