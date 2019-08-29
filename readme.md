@@ -7,8 +7,8 @@ I take the list below as a guide and an example of what I need to study.
 
 ## Progress
 
-Current Course:  
-Current Book:  
+Current Course: [Advanced JavaScript Concepts](https://www.udemy.com/advanced-javascript-concepts/)  
+Current Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
 <!-- - [Vue.js: Up and Running. Building Accessible and Performant Web Apps](http://shop.oreilly.com/product/0636920103455.do) -->
 <!-- - [Programming Perl](https://en.wikipedia.org/wiki/Programming_Perl)  (stalled) -->
 
