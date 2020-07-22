@@ -1,6 +1,6 @@
 # Progress towards my learning goals
 
-In 2018 I began my career as a frontend developer. This repo is supposed to indicate my educational progress.  
+This repo is supposed to indicate my educational progress.  
 First, I am going to fill up all gaps in my knowledge and build a strong foundation for my web-dev career.  
 Second,  I will continue to develop my skills and experience and broaden my understanding and knowledge in this field.  
 I take the list below as a guide and an example of what I need to study.
